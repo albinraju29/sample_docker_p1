@@ -3,10 +3,11 @@
 ```markdown
 # 🚀 Sample Dockerized Node.js Project  
 
-![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)  
-![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)  
-![License](https://img.shields.io/badge/License-MIT-yellow)  
-![Status](https://img.shields.io/badge/Status-Active-success)  
+![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Active-success)
+ 
 
 This is a simple **Node.js + Express** project, containerized using **Docker**.  
 It serves a basic web page to demonstrate how to run Node.js apps inside Docker containers.  
