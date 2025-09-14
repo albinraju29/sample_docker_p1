@@ -1,0 +1,18 @@
+# Dependency directories
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Git files
+.git
+.gitignore
+
+# Docker files
+.dockerignore
