@@ -2,18 +2,9 @@
 ***
 
 # 🚀 Sample Dockerized Node.js Project  
-![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=n  
-  
-![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=d  
-  
-  
-![License](https://img.shields.io/badge  
-  
-  
-  
-![Status](https://img.shields.io/badge  
-  
-  
+<img src="https://nodejs.org/static/images/logo.svg" alt="Node.js Logo" width="60"/>
+<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker Logo" width="80"/>
+ 
   
   
 
