@@ -1,4 +1,3 @@
-Here’s a polished and more complete version of your README with improvements, including a proper project structure and a “Getting Started” guide:
 
 ***
 
@@ -78,4 +77,20 @@ This project is licensed under the [MIT](LICENSE) license.
 
 ***
 
-Would you like me to also add a **docker-compose.yml** example in the README so users can spin it up with a single command?
+---
+
+## 🔮 Future Improvements
+
+* Add **multiple routes** (e.g., `/about`, `/contact`)
+* Connect with a database (MongoDB/Postgres)
+* Use **Docker Compose** for multi-service setup
+
+---
+
+## 👨‍💻 Author
+
+**Albin Raju**
+📌 MCA Student | Union Christian College, Aluva
+🌐 GitHub: [albinraju29](https://github.com/albinraju29)
+
+---
